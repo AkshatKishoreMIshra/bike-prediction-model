@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="100%" height="100%" fill="#071226" />
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="1120" height="620" rx="12" fill="#071522" stroke="#17304d" stroke-width="2" />
+    <text x="40" y="56" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#e6eef6" font-weight="700">Bike Rental Demand — Demo (placeholder)</text>
+    <g transform="translate(40,96)">
+      <rect width="320" height="120" rx="8" fill="#0b3d91" />
+      <text x="24" y="72" font-family="Arial" font-size="48">🚲</text>
+      <text x="120" y="72" font-family="Arial" font-size="18" fill="#fff" font-weight="700">Sidebar & Controls</text>
+    </g>
+    <g transform="translate(400,120)">
+      <rect width="680" height="280" rx="8" fill="#0f2433" />
+      <text x="32" y="48" font-family="Arial" font-size="40" fill="#ff7ab6">🔮 123 bikes</text>
+      <text x="32" y="90" font-family="Arial" font-size="16" fill="#9aa4b2">Level: Moderate · Temp: 20°C · Humidity: 60%</text>
+      <rect x="32" y="120" width="600" height="36" rx="6" fill="#2f855a" />
+    </g>
+    <text x="40" y="560" font-family="Arial" font-size="14" fill="#9aa4b2">This is a placeholder SVG — replace with an actual screenshot.png in `images/` for README.</text>
+  </g>
+</svg>
